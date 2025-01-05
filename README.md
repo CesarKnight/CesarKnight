@@ -1,4 +1,4 @@
 Software Engineer student in Bolivia
 
-- 🦐 I’m currently in university learning managing projects with different aproaches
-- 🌱 I’m currently learning by myself Spring and Angular Frameworkds
+- 🦐 Currently in university learning how to manage projects with different aproaches
+- 🌱 Learning by myself Angular
